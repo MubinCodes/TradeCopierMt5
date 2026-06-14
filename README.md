@@ -127,6 +127,21 @@ These features can be added in future versions.
 | `MODE_MASTER` | Writes master position data to the common file                       |
 | `MODE_SLAVE`  | Reads master position data and copies positions to the slave account |
 
+
+
+---
+
+## Screenshot
+
+### Input Settings
+
+![Input Settings](screenshots/Inputs.png)
+
+### Charts 
+
+
+![Charts](screenshots/Inputs.png)
+
 ---
 
 ## Installation
