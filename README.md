@@ -140,7 +140,7 @@ These features can be added in future versions.
 ### Charts 
 
 
-![Charts](screenshots/Inputs.png)
+![Charts](screenshots/Charts.png)
 
 ---
 
